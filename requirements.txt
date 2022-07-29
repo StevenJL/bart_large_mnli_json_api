@@ -1,0 +1,4 @@
+gunicorn
+transformers
+flask
+https://download.pytorch.org/whl/cpu/torch-1.11.0%2Bcpu-cp310-cp310-linux_x86_64.whl
