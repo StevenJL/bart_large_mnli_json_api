@@ -1,6 +1,5 @@
 # What is this?
-
-MNLI (Multi-Genre Natural Language Inference) as a JSON web API
+BART Large MNLI as a JSON web API
 - Basically a web wrapper around this: https://huggingface.co/facebook/bart-large-mnli
 
 # Dev Set Up
